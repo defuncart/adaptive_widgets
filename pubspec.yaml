@@ -1,0 +1,16 @@
+name: adaptive_widgets
+description: A package which renders Cupertino or Material widgets depending on the target device.
+version: 0.0.1
+author: James Leahy <defuncart@gmail.com>
+homepage: https://github.com/defuncart/adaptive_widgets
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
